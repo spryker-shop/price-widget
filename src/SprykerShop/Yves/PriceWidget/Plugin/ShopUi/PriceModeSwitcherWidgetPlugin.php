@@ -5,10 +5,10 @@
  * Use of this software requires acceptance of the Evaluation License Agreement. See LICENSE file.
  */
 
-namespace SprykerShop\Yves\PriceWidget\Plugin\ShopLayout;
+namespace SprykerShop\Yves\PriceWidget\Plugin\ShopUi;
 
 use Spryker\Yves\Kernel\Widget\AbstractWidgetPlugin;
-use SprykerShop\Yves\ShopLayout\Dependency\Plugin\PriceWidget\PriceModeSwitcherWidgetPluginInterface;
+use SprykerShop\Yves\ShopUi\Dependency\Plugin\PriceWidget\PriceModeSwitcherWidgetPluginInterface;
 
 /**
  * @method \SprykerShop\Yves\PriceWidget\PriceWidgetFactory getFactory()
